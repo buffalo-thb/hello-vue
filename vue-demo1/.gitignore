@@ -1,0 +1,9 @@
+.DS_Store
+node_modules/
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 只忽略dbg目录，不忽略dbg文件
+node_modules/
